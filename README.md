@@ -9,3 +9,7 @@
 - Git 설치
 - Python 설치
 - Jupyter Notebook 설치
+
+## 3주차
+
+-
